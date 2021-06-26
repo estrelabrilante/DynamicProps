@@ -10,7 +10,7 @@
     </div>
     <div>
       <label>E-Mail</label>
-      <input type="email" v-model="eneteredEmail" />
+      <input type="email" v-model="enteredEmail" />
     </div>
     <div>
       <button>
